@@ -1,6 +1,7 @@
 # Line-Following-Robot-Using-OpenCV-and-Arduino
 
-This robot follows a black line on a white background.
+This autonomous robot follows a black line in a high contrast surrounding using OpenCV for image processing.
+I have not used any sensors.
 Since I have used an Arduino Board, the image processing has to be done on an external machine ( I used a laptop for this )
 L298N motor drivers are used to drive the connected motors.
 
